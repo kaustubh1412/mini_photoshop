@@ -3,7 +3,7 @@
 from simpleimage import SimpleImage
 
 
-DEFAULT_FILE = 'images/mt-rainier.jpg'
+DEFAULT_FILE = 'mt-rainier.jpg'
 
 
 
